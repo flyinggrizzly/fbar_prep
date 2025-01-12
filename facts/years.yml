@@ -1,0 +1,55 @@
+years:
+  - year: 2024
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.783
+      - currency_code: eur
+        rate: 0.924
+  - year: 2023
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.804
+      - currency_code: eur
+        rate: 0.924
+  - year: 2022
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.811
+      - currency_code: eur
+        rate: 0.951
+  - year: 2021
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.727
+      - currency_code: eur
+        rate: 0.846
+  - year: 2020
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.779
+      - currency_code: eur
+        rate: 0.877
+  - year: 2019
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.784
+      - currency_code: eur
+        rate: 0.893
+  - year: 2018
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.750
+      - currency_code: eur
+        rate: 0.848
+  - year: 2017
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.808
+      - currency_code: eur
+        rate: 0.923
+  - year: 2016
+    exchange_rates:
+      - currency_code: gbp
+        rate: 0.808
+      - currency_code: eur
+        rate: 0.923
